@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭I'm currently working on<br>Building  IT company in Janakpur offering web development, app development & digital marketing<p>👯I'm looking to collaborate on<br>Branding, UI/UX design, social media content & creative web projects<p>
-🤝I'm looking for help with<br>Scaling IT company client reach across Nepal & growing my design portfolio internationally<br>🌱<br>I'm currently learning<br>BCA @ Tribhuvan University Motion Graphics Advanced UI/UX
+🤝I'm looking for help with<br>Scaling IT company client reach across Nepal & growing my design portfolio internationally
+🌱I'm currently learning<br>BCA @ Tribhuvan University Motion Graphics Advanced UI/UX
 💬Ask me about<br>Graphic Design Adobe Creative Suite Figma Branding Web Development
 ⚡Fun fact<br>I speak 4 languages — English, Nepali, Maithili & Hindi — and I design in all of them
 
